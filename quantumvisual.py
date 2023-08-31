@@ -8,8 +8,10 @@ import numpy as np
 
 
 MdTitle = """
-# Quantum RSA Key Break
-## Comparando o tempo para quebra de chaves RSA entre computação clássica e quântica.
+# Quebra de senha com computação quântica
+## Comparando o tempo para quebra de senhas com N bits entre computação clássica e quântica.
+### Importante
+### Tempo de um 1 dia = 0,01s
 """
 
 console = Console()
